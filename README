@@ -1,0 +1,1 @@
+This script attempts to install gems from a list given by @gem list --local@ command.
